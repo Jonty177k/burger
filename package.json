@@ -1,0 +1,30 @@
+{
+  "name": "assignment-14",
+  "version": "1.0.0",
+  "description": "burger homework 1",
+  "main": "3000",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "express-handlebars": "^3.0.0",
+    "method-override": "^2.3.8",
+    "mysql": "^2.13.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "helloworld",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jonty177k/burger.git"
+  },
+  "keywords": [
+    "wilmerflores1999k"
+  ],
+  "author": "mreid",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jonty177k/burger/issues"
+  },
+  "homepage": "https://github.com/Jonty177k/burger#readme"
+}
